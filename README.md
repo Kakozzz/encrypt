@@ -23,3 +23,29 @@ The decrypted text
 Requirements
 Python 3.x
 Built-in random module
+
+Save the file
+
+Open your text editor (Notepad, VS Code, Sublime Text, etc.).
+
+Copy your code and save it as xor_cipher.py in a folder you'll remember.
+
+ Open the terminal
+
+On Windows: Press Win + R, type cmd, and press Enter.
+
+On Mac/Linux: Open the Terminal.
+
+Navigate to the folder where you saved the file using the `cd` command. For example:
+
+cd C:\Users\YourUsername\Documents\Python
+
+Run the program
+
+In the terminal, type:
+
+Python xor_cipher.py
+
+Or, if your computer uses Python 3:
+
+python3 xor_cipher.py
